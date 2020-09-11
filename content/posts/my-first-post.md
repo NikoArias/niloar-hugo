@@ -13,11 +13,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and [Hugo](h
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-
+asaaaaaaaaaaaaaaaaaaaa
 
 How about a yummy crepe?
 
