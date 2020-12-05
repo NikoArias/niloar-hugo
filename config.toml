@@ -1,7 +1,7 @@
 baseurl = "https://nikoarias.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Nicolas Blogs"
+title = "Nicolas' Blogs"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -100,14 +100,14 @@ pygmentsCodefencesGuessSyntax = true
 #     name = "Math Sample"
 #     url = "post/2017-03-05-math-sample"
 #     weight = 2
-# 
+#
 # [[menu.main]]
 #     parent = "samples"
 #     name = "Code Sample"
 #     url = "post/2016-03-08-code-sample"
 #     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 3
